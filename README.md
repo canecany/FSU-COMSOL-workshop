@@ -9,12 +9,19 @@ J. Nanclares
 This repository includes:
 
 PowerPoint presentation for the workshop
+
 COMSOL Multiphysics® simulation files (.mph)
+
 Simulation results and plots
+
 Jupyter Notebook with:
+
 error validation
+
 numerical comparison
+
 RMSE and R^2 calculations
+
 data visualization
 
 The workshop introduces multiphysics modeling using three fundamental COMSOL examples:
@@ -28,8 +35,10 @@ The workshop introduces multiphysics modeling using three fundamental COMSOL exa
 These examples demonstrate how to build physics interfaces, set up geometry, mesh, solve, and extract results using COMSOL.
 
 The workshop references official COMSOL articles for deeper learning:
+
 Lid-Driven Cavity Benchmark
 https://www.comsol.com/blogs/how-to-solve-a-classic-cfd-benchmark-the-lid-driven-cavity-problem
+
 Designing Electrical Heating Circuits
 https://www.comsol.com/blogs/designing-heating-circuits-with-multiphysics-simulation
 
