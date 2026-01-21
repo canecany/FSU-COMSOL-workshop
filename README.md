@@ -8,6 +8,8 @@ J. Nanclares
 
 This repository includes:
 
+Video link that can request via this following link: https://teams.microsoft.com/l/meetingrecap?driveId=b%21H9yXjUO6IU26Hv0ZZiAsFj4ptvaDQdBGvNkyMYwoTIjSHLsj61LXSKr354TQQbaA&driveItemId=01AGHMXKE4EBYAWNXZVNH25ZLJZQOUK7AR&sitePath=https%3A%2F%2Ffsu-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fcs22bc_fsu_edu%2FIQCcIHALNvmrT67lacwdRXwRARYJ7kzvn6u7W7VYjsekdeI&fileUrl=https%3A%2F%2Ffsu-my.sharepoint.com%2Fpersonal%2Fcs22bc_fsu_edu%2FDocuments%2FRecordings%2FComsol%2520Workshop-20260120_143100-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200E00074C5B7101A82E00800000000D89BED6D358ADC01000000000000000010000000FB0E3BDC4F97BA4AA51858D42D424327&threadId=19%3Ameeting_NzczOGRjZjgtMGUzOC00Y2EzLThiM2ItYzk0MGU2ZmQ1Y2E1%40thread.v2&organizerId=b48b773d-0ba5-4fbc-87db-e9a402f1cfb5&tenantId=a36450eb-db06-42a7-8d1b-026719f701e3&callId=c73ae5c2-c4b5-4d7c-8cf7-8f74032145cc&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore
+
 PowerPoint presentation for the workshop
 
 COMSOL Multiphysics® simulation files (.mph)
